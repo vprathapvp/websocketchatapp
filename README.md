@@ -29,6 +29,8 @@ Take on the challenge of developing a chat server system in Java, enabling users
 - Create README.md for the project with the setup instruction
 - The server must be able to run and tested based on the README instructions
 - Upload the Postman workspace
+-  GET   http://localhost:8080/api/messages
+-  DELETE  http://localhost:8080/api/messages/1   
 - Share the public git repository URL
 
 ## Testing via Postman

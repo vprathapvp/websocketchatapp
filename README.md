@@ -48,3 +48,7 @@ Take on the challenge of developing a chat server system in Java, enabling users
 - You have 4 days to complete the assessment. We know everyone is busy, so if you need one more day let us know.
 - During the interview you need to explain and demonstrate the code via the feature requirements using Postman
 
+![image](https://github.com/vprathapvp/websocketchatapp/assets/137203700/a6a2a8e9-654d-40c1-8860-c3787d3c655f)
+
+
+
